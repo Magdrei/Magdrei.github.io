@@ -125,17 +125,15 @@ h1 {
 color: black;
 background-color: #39ff14;
 text-align: center;
-font-size: 42px;
+font-size: 23vw;
 font-family:space mono;
 height: 100%;
-padding-left: 1vw;
-padding-right: 1vw;
- padding-top: 2px;
-padding-bottom: 25px;
-min-width:100%;
-max-width:100%;
+max-width: 101%;
+min-width:101%;
+padding-top: 20px;
+padding-bottom: 15px;
 position: relative;
-float: left;
+float: center;
 
 
 }
