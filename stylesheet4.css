@@ -174,11 +174,10 @@ p1 {
     text-align: left;
     font-family: space mono;
     font-size: 3vw !important;
- padding-top: 2vw;
+ padding-top: 1vw;
 padding-bottom: 4vw;
-padding-left: 7vw;
-padding-right: 7vw;
- margin-top: 70px;
+padding-left: 3vw;
+padding-right: 4vw;
  line-height: 1.5;
 
     
