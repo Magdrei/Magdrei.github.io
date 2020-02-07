@@ -7,7 +7,7 @@ Twitter: @rich_clark
 */
 @font-face {
   font-family: 'space mono';
-  src: url('SpaceMono-Regular.ttf');
+  src: url('/SpaceMono-Regular.ttf');
 }
 
 html, body, div, span, object, iframe,
