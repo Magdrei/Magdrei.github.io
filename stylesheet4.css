@@ -167,6 +167,24 @@ p {
 
     
 }
+
+
+p1 {
+    color:black;
+    text-align: left;
+    font-family: space mono;
+    font-size: 3vw !important;
+ padding-top: 2vw;
+padding-bottom: 4vw;
+padding-left: 7vw;
+padding-right: 7vw;
+ margin-top: 70px;
+ line-height: 1.5;
+
+    
+}
+
+
 div {
 	float:center;
 }	
