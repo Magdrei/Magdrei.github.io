@@ -128,7 +128,7 @@ padding-left: 1vw;
 padding-right: 1vw;
 padding-top: 20px;
 padding-bottom: 15px;
-position: fixed;
+position: relative;
   float: center;
 margin-top: 0px;
 }
@@ -147,7 +147,7 @@ padding-right: 1vw;
         padding-top: 20px;
     padding-bottom: 25px;
     min-width:100vw;
-    position: fixed;
+    position: relative;
     min-width:100vw;
     float: left;
 
