@@ -201,6 +201,19 @@ margin-right: 5vw;
     
 }
 
+p3 {
+   color:black;
+    text-align: left;
+    font-family: AktivGroteskRegular;
+    font-size: 4vw !important;
+margin-bottom: 19vw;
+padding-left: 6vw;
+margin-right: 5vw;
+ line-height: 1.5;
+
+    
+}
+
 div {
 	float:center;
 }	
