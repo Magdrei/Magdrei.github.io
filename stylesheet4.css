@@ -9,6 +9,10 @@ Twitter: @rich_clark
   font-family: 'space mono';
   src: url('/SpaceMono-Regular.ttf');
 }
+@font-face {
+  font-family: 'AktivGroteskRegular';
+  src: url('/AktivGroteskCorp-Regular.ttf');
+}
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -158,7 +162,7 @@ padding-right: 1vw;
 p {
     color:black;
     text-align: left;
-    font-family: space mono;
+    font-family: AktivGroteskRegular;
     font-size: 4vw !important;
  padding: 4vw;
  padding-top: 8vw;
