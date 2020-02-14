@@ -236,7 +236,7 @@ img{
 	height: 90vw;
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 1020px) {
   h1 {
     display: none;  
   }
