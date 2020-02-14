@@ -247,9 +247,9 @@ img2{
 @media only screen and (min-width: 1020px) {
   .grid-container  {
     display: none;  
-}
+		}
 p {
-     color: black;
+    color: pink;
     text-align: left;
     font-family: space mono;
     font-size: 18px !important;
@@ -258,7 +258,7 @@ p {
     margin-top: 110px;
     line-height: 1.5;
     margin-right: 45vw;
-}
+		}
 
 }
 
