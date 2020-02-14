@@ -277,19 +277,21 @@ p {
     text-align: left;
     font-family: space mono;
     font-size: 0.3vw !important;
-    padding: 0.2vw;
+    padding: 0.1vw;
     line-height: 1.5;
-		}
+	}
+	
 	  .grid-container  {
     display: none;  
-		}
+	}
+	
 .box {	
     padding: 6vw;
     margin-bottom: 3vw;
     background-color: #FFFFFF;
     float: left;
     width: 48%;
-}
+	}
 
 }
 
