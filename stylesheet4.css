@@ -245,6 +245,15 @@ img{
   float: left;
   width: 40%;
 }
+	.box1 {	
+ padding: 4vw;
+ padding-top: 8vw;
+ margin-top: 110px;
+ margin-bottom: 3vw;
+ background-color: #FFFFFF;
+  float: right;
+  width: 40%;
+}
 .clearfix::after {
   content: "";
   clear: both;
