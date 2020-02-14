@@ -248,7 +248,7 @@ img{
  margin-bottom: 3vw;
  background-color: #FFFFFF;
   float: left;
-  width: 40%;
+  width: 100%;
 }
 
 	.box1 {	
@@ -258,7 +258,7 @@ img{
  margin-bottom: 3vw;
  background-color: #FFFFFF;
   float: right;
-  width: 40%;
+  width: 30%;
 }
 
 .clearfix::after {
@@ -281,6 +281,15 @@ p {
 	  .grid-container  {
     display: none;  
 		}
+.box {	
+ padding: 4vw;
+ padding-top: 8vw;
+ margin-top: 110px;
+ margin-bottom: 3vw;
+ background-color: #FFFFFF;
+  float: left;
+  width: 50%;
+}
 
 }
 
