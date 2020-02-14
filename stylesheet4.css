@@ -253,7 +253,7 @@ img{
     display: none;  
 }
 p {
- display: none; 
+ display: hide; 
 }
 
 }
