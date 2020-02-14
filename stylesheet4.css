@@ -276,7 +276,7 @@ p {
     color: black;
     text-align: left;
     font-family: space mono;
-    font-size: 18px !important;
+    font-size: 0.3vw !important;
     padding: 2vw;
     line-height: 1.5;
 		}
