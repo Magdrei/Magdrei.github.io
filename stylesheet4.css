@@ -238,8 +238,9 @@ img{
 
 @media only screen and (max-width: 1024px){
 		h1 {
-display: none;
+			
+Color: pink; 
 }
-
+display: none;
 
 }
