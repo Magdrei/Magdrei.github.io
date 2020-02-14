@@ -235,13 +235,7 @@ div2 {
 img{
 	width:90vw;
 	height: 90vw;
-}
-div.QR {
-  width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
-}
+
 .box {	
  padding: 4vw;
  padding-top: 8vw;
@@ -251,6 +245,12 @@ div.QR {
   float: left;
   width: 50%;
 }
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 
 @media only screen and (min-width: 1020px) {
 
