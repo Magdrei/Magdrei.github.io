@@ -163,11 +163,8 @@ p {
     text-align: left;
     font-family: space mono;
     font-size: 4vw !important;
- padding: 4vw;
- padding-top: 8vw;
- margin-top: 110px;
- line-height: 1.5;
-margin-bottom: 3vw;
+    line-height: 1.5;
+
 
     
 }
@@ -244,6 +241,13 @@ div.QR {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
+}
+.box {	
+ padding: 4vw;
+ padding-top: 8vw;
+ margin-top: 110px;
+margin-bottom: 3vw;
+
 }
 
 @media only screen and (min-width: 1020px) {
