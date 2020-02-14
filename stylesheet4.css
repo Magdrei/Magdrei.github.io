@@ -253,12 +253,12 @@ img{
 
 	.box1 {	
  padding: 4vw;
- padding-top: 8vw;
+ padding-top: 20vw;
  margin-top: 110px;
  margin-bottom: 3vw;
  background-color: #FFFFFF;
   float: right;
-  width: 30%;
+  width: 25%;
 }
 
 .clearfix::after {
@@ -288,7 +288,7 @@ p {
  margin-bottom: 3vw;
  background-color: #FFFFFF;
   float: left;
-  width: 50%;
+  width: 55%;
 }
 
 }
