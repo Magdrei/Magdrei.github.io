@@ -266,11 +266,10 @@ p {
     display: none;  
 		}
 	.box {	
- padding: 4vw;
- margin-bottom: 3vw;
- background-color: #FFFFFF;
-  float: left;
-  width: 40%;
+
+ padding-top: 1vw;
+ margin-top: 1px;
+ margin-bottom: 1vw;
 }
 
 }
