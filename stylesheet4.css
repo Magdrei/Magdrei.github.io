@@ -245,9 +245,7 @@ img2{
 }
 
 @media only screen and (min-width: 1020px) {
-  .grid-container  {
-    display: none;  
-		}
+
 p {
     color: pink;
     text-align: left;
