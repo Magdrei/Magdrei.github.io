@@ -280,11 +280,12 @@ p {
     display: none;  
 		}
 .box {	
- padding: 4vw;
- margin-bottom: 3vw;
- background-color: #FFFFFF;
-  float: left;
-  width: 52%;
+    padding: 6vw;
+    padding-top: 20vw;
+    margin-bottom: 3vw;
+    background-color: #FFFFFF;
+    float: left;
+    width: 25%;
 }
 
 }
