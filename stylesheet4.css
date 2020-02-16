@@ -251,10 +251,10 @@ img{
 }
 
 .logo {	
-margin-bottom: 19vw;
-padding-left: 6vw;
-margin-right: 5vw;
-  width: 100%;
+    padding-top: 9vw;
+    ding-left: 6vw;
+    float: left;
+    width: 102%;
 }
 
 
